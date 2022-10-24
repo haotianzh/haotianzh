@@ -1,5 +1,6 @@
 ### Hi there
 #### 😃 *Looking for internship, contact with me at: haotianzh@uconn.edu*
+---
 <!--
 **haotianzh/haotianzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
