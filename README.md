@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I'm a 5th year Ph.D student major in Computer Science at UConn. My research interests include Population Genetics(coalescent theory, genealogy), Probabilistic Models(markovian, bayesain) and ML. 
-
-🏔️🎿 I'm also a ski enthusiast, a snow fan from the east coast.
 
 ---
