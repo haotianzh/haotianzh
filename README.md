@@ -1,6 +1,6 @@
 ### Hi there
 #### 😃 *Looking for an internship or a full-time position (Machine learning engineer, Data scientist, Applied Scientist, etc), contact with me at: haotianzh@uconn.edu*
----
+
 <!--
 **haotianzh/haotianzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
+
